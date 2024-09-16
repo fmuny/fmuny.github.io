@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### Education
 * M.Sc. in Economics, Vienna University of Economics and Business, 2020
 * B.Sc. in International Economics, University of Tübingen, 2017
 
