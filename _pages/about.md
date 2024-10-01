@@ -13,4 +13,4 @@ Research interests
 ======
 * Causal identification in observational settings
 * Estimation of causal effects using machine learning methods
-* Algorithmic treatment recommendations using policy learning
+* Algorithmic treatment recommendations using off-policy learning
