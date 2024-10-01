@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD candidate in Econometrics at University of St. Gallen, working under the supervision of Professor [Michael Lechner](https://www.michael-lechner.eu/). I plan to submit my thesis in early 2025 and am actively seeking opportunities in both academia and industry.
+I am a fourth-year PhD candidate in Econometrics at University of St. Gallen, working under the supervision of Professor [Michael Lechner](https://www.michael-lechner.eu/). I plan to submit my thesis in early 2025 and am seeking opportunities in research and industry.
 
 Research interests
 ======
